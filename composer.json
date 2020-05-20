@@ -1,0 +1,27 @@
+{
+    "name": "garan/btree-pratice",
+    "authors": [
+        {
+            "name": "GaranPoe",
+            "email": "baigalikkk@163.com"
+        }
+    ],
+    "require": {
+        "uu-myheart/dd": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "."
+        }
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "/Users/Garan/code/freezed/dd",
+            "options": {
+                "symlink": true
+            }
+        }
+    ]
+}
